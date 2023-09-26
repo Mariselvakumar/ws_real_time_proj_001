@@ -9,5 +9,7 @@ for x in inp_str:
         out_str = out_str + target_char + str(count)
         count, target_char = 1, x
         continue
+
+out_str = out_str + target_char + str(count)
 print(out_str)
 
