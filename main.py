@@ -12,4 +12,4 @@ for x in inp_str:
 
 out_str = out_str + target_char + str(count)
 print(out_str)
-
+print('Done')
